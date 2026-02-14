@@ -1,0 +1,15 @@
+C:\Users\carlo\OneDrive\Desktop\Trabajos-POO-IPAC-2026\Trabajos-POO-I-UNIDAD\Guia-Ejercicios-I-Unidad\obj\Debug\net10.0\Guia-Ejercicios-I-Unidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Desktop\Trabajos-POO-IPAC-2026\Trabajos-POO-I-UNIDAD\Guia-Ejercicios-I-Unidad\obj\Debug\net10.0\Guia-Ejercicios-I-Unidad.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Trabajos-POO-IPAC-2026\Trabajos-POO-I-UNIDAD\Guia-Ejercicios-I-Unidad\obj\Debug\net10.0\Guia-Ejercicios-I-Unidad.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\Trabajos-POO-IPAC-2026\Trabajos-POO-I-UNIDAD\Guia-Ejercicios-I-Unidad\obj\Debug\net10.0\Guia-Ejercicios-I-Unidad.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Trabajos-POO-IPAC-2026\Trabajos-POO-I-UNIDAD\Guia-Ejercicios-I-Unidad\obj\Debug\net10.0\Guia-Ejercicios-I-Unidad.sourcelink.json
+C:\Users\carlo\OneDrive\Desktop\Trabajos-POO-IPAC-2026\Trabajos-POO-I-UNIDAD\Guia-Ejercicios-I-Unidad\bin\Debug\net10.0\Guia-Ejercicios-I-Unidad.exe
+C:\Users\carlo\OneDrive\Desktop\Trabajos-POO-IPAC-2026\Trabajos-POO-I-UNIDAD\Guia-Ejercicios-I-Unidad\bin\Debug\net10.0\Guia-Ejercicios-I-Unidad.deps.json
+C:\Users\carlo\OneDrive\Desktop\Trabajos-POO-IPAC-2026\Trabajos-POO-I-UNIDAD\Guia-Ejercicios-I-Unidad\bin\Debug\net10.0\Guia-Ejercicios-I-Unidad.runtimeconfig.json
+C:\Users\carlo\OneDrive\Desktop\Trabajos-POO-IPAC-2026\Trabajos-POO-I-UNIDAD\Guia-Ejercicios-I-Unidad\bin\Debug\net10.0\Guia-Ejercicios-I-Unidad.dll
+C:\Users\carlo\OneDrive\Desktop\Trabajos-POO-IPAC-2026\Trabajos-POO-I-UNIDAD\Guia-Ejercicios-I-Unidad\bin\Debug\net10.0\Guia-Ejercicios-I-Unidad.pdb
+C:\Users\carlo\OneDrive\Desktop\Trabajos-POO-IPAC-2026\Trabajos-POO-I-UNIDAD\Guia-Ejercicios-I-Unidad\obj\Debug\net10.0\Guia-Ejercicios-I-Unidad.dll
+C:\Users\carlo\OneDrive\Desktop\Trabajos-POO-IPAC-2026\Trabajos-POO-I-UNIDAD\Guia-Ejercicios-I-Unidad\obj\Debug\net10.0\refint\Guia-Ejercicios-I-Unidad.dll
+C:\Users\carlo\OneDrive\Desktop\Trabajos-POO-IPAC-2026\Trabajos-POO-I-UNIDAD\Guia-Ejercicios-I-Unidad\obj\Debug\net10.0\Guia-Ejercicios-I-Unidad.pdb
+C:\Users\carlo\OneDrive\Desktop\Trabajos-POO-IPAC-2026\Trabajos-POO-I-UNIDAD\Guia-Ejercicios-I-Unidad\obj\Debug\net10.0\Guia-Ejercicios-I-Unidad.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Desktop\Trabajos-POO-IPAC-2026\Trabajos-POO-I-UNIDAD\Guia-Ejercicios-I-Unidad\obj\Debug\net10.0\ref\Guia-Ejercicios-I-Unidad.dll
